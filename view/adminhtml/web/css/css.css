@@ -31,3 +31,8 @@
 .admin__action-dropdown-menu > li > a {
     padding: 0.0rem 0.5rem !important;
 }
+
+.mirasvit-logo {
+    background-image: none;
+    padding-left: 0px;
+}
