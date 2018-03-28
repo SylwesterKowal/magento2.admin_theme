@@ -5,7 +5,7 @@
       "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
-    "version": "1.0.33",
+    "version": "1.0.34",
     "minimum-stability": "stable",
     "license": [
         "OSL-3.0",
