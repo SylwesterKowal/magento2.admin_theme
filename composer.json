@@ -2,7 +2,6 @@
     "name": "wm21w/admintheme",
     "description": "Wm21w AdminTheme",
     "require": {
-      "php": "~5.5.0|~5.6.0|~7.1.9",
       "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
